@@ -1,4 +1,6 @@
 # Library.API
+A2 - ÁLVARO CALEBE SOUZA FERREIRA
+TÓPICOS III
 
 ---> É uma API para a gestão de livros, usuários e reservas.
 
